@@ -7,3 +7,5 @@ Espero que goste!! Estou iniciando nesse mundo da programação
 
 São treinos e exercícios resolvidos por mim, caso tenha algo a melhor, aceito qualquer informação e comentário,
 seja positivo ou negativo (que possa servir de aprendizado)
+
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/93616970/144726624-11e29614-12ca-4f88-8451-ab3f3f66bc87.gif)]
